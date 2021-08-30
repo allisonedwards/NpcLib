@@ -1,0 +1,23 @@
+{
+  "name": "npclib",
+  "version": "0.1.0",
+  "description": "An NPC AI framework",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.8.2",
+    "karma": "^6.3.4",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1",
+    "karma-jasmine-html-reporter": "^1.7.0",
+    "karma-typescript": "^5.5.2",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "ts-priority-queue": "^0.1.1"
+  }
+}

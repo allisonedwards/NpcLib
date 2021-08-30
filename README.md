@@ -12,6 +12,7 @@ task can generate actions for the NPC and manipulate it's state.
 
 The most likely task type you will use it the State Machine Task.
 
+
 ## State Machine Tasks
 A state-machine task consists of a state-machine which produces
 of actions which the NPC will run, but new tasks and interruptions drive the choice of
