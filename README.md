@@ -16,4 +16,18 @@ The most likely task type you will use it the State Machine Task.
 ## State Machine Tasks
 A state-machine task consists of a state-machine which produces
 of actions which the NPC will run, but new tasks and interruptions drive the choice of
-the curent state-machine.
+the current state-machine.
+
+
+#  Acknowledgements
+
+Inspired by this paper 
+http://publications.lib.chalmers.se/records/fulltext/245348/245348.pdf 
+and others by 
+by
+Gustav Grund Pihlgren
+Martin Nilsson
+Mikael Larsson
+Oskar Olsson
+Tobias Foughman
+Victor Gustafsson".
