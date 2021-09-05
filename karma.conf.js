@@ -5,6 +5,7 @@ module.exports = function (config) {
   config.set({
     karmaTypescriptConfig : {
         compilerOptions: {
+            "target": "es6",
             "lib": [ "dom" ,"es6", "es2017.object"], 
         },
         bundlerOptions: {
